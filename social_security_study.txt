@@ -1,0 +1,217 @@
+WHEN TO APPLY FOR SOCIAL SECUITY.
+Social Security is something we hear about all our working lives but don’t really know a lot about.  I am no expert in any aspect of Social Security. Just curious about stuff.
+Social Security was designed as an insurance plan, not specifically a retirement plan.  Thus, the real name is Old Age, Survivors and Disability Insurance.  This was not designed to be the only source of retirement income. This study only addressed the annuity benefits of a payout portion of some scenarios. Specifically, the “breakeven point" and the different ways of looking at the security payments for relatively simple situations.  It does not take into consideration any tax implication, choices for survivors’ benefits or any other aspect.  
+
+This is a look into a few examples and my conclusions about when to apply for benefits.
+This looks at examples in very simple terms.  The examples are of men who have stopped working at age 62 for simplicity.  
+This does not apply to someone who is continuing to earn income. There are many other considerations that I cannot try to address. 
+
+When to Apply for social Security?   Is there an optimal answer?  
+The answer as with most complex areas…. depends. It depends on what the use or goal of  Social Security benefit is and how it fits into the overall financial plan.
+There are a lot of aspects of how social security payments affect the plan. For instance, overall retirement income, retirement savings growth, how withdrawals affect taxes, The comfort level of risk and returns. Each financial plan is different just as everyone is different. 
+To find an optimum solution the goal needs to be defined and know the future inflation, equity and income markets and world events.   That is not realistic. So, all we can do is approximate.
+It is confusing. Let’s try to approximate what we may want from SS benefit payments.
+I created some spread sheets. I named the workbook Breakeven.
+The first Sheet is called Main.  This is where the important information is entered.  The other sheets pull the information from this page…unless you want to override the values on the other sheets.
+Some definitions for this study.
+FRA- Full Retirement Age Benefit.  67 for anyone born after 1960, as of 2025.
+CPI- Consumer Price Index.  A measure of inflation.  Used as a percentage in the study. 
+Discount rate- Discount rate is used to value the amount of money sometime in the future and compare the future money value to money  today. Usually what is considered safe return such as the yield on a treasury bill or the rate of inflation. See Youtube video. https://www.youtube.com/watch?v=ssXRhuR3Fmw&list=PL7sOzsNIPmX-Nqobzi12llu8ujhXlRG5n ( Bonds and business investing)
+Rate of Return- Anticipated investment return rate.  This should be at least the rate of anticipated inflation.
+Time value of money- Inflation affects the buying power of money.  A dollar twenty years ago could buy a different amount of goods than today.  Usually with inflation that means the buying power is less. So the twenty dollars lost value if you compare the real value.
+CoLA – Cost of living Adjustment,  This calculated each year based on the wage growth for the year.  This is not based on the CPI.  The percentage increase does not match consumer inflation, but it is close.  This is applied to payments that are being made. (The CoLA adjustment does not apply to delayed payments).
+Net Present Value NPV - is the process of evaluating a stream of payments over some years and determining if it is a good investment.  
+
+The examples in the spreadsheets Look at two single men and the same men when married. Then  two basic scenarios of married couples with different earnings comparisons and the impact of the higher earner passing away first.  This is not at all comprehensive but at least an example.
+
+I won’t drag it out…My conclusion of when to take social security
+IF SINGLE
+Take it when you stop working.  If you stop working at 62 take it then.  If you want to work part time, fine, that is just a different study.  
+Stopping work at 62 brings other challenges like...Health insurance.  But that is not addressed here.
+IF MARRIED 
+If the lower earning spouse's benefit is significantly lower than the higher earning spouse, the lower earning spouse should delay applying until 65. (in order to receive 90% of the higher earning spouse benefit upon the higher earning spouse death).  See the examples of Frank and Bill.  Delaying depends on the amount of money saved and willing to spend while delaying.
+How I came to my conclusion
+I have always been told to delay applying as long as you can, but I do not find that to be the case.  Delaying only seems to work out if the time value of money is suspended and there is no inflation, no investment market.  Not realistic.
+Looking at simple breakeven calculations:
+Looking at the time value of money, using realistic rates of return and inflation rates there is no way delaying taking social security makes mathematical sense.  Delaying also adds stress to retirement that doesn't need to be there.
+Let’s try to approximate what we may want from SS benefit payments.
+First understanding the time value of money. 
+Example TVM:
+If you lend someone $100 today and they pay you back $100  5 yrs from now does that seem equivalent?  No.   There is at least inflation over the years that makes the future $100 worth less.  The amount of goods bought today is more than the same amount of goods bought with the same $100 5yrs in the future.  The amount of a payment in the future is therefore discounted by a percentage to equate what the value is in today’s terms (minimum would be yearly inflation rate).
+We cannot predict the future, but we can get a good estimate by using the average inflation rate over some years in the past. Looking at the CPI from (1914 to 2024) that is about 3.25%.  The Federal Reserve goal is trying to keep inflation at 2.5% a year.
+On to the spreadsheet examples.
+On the Main sheet
+You enter the Full Retirement Age Benefit.  It will calculate the benefits for age after that.
+Enter years after retirement of life expectancy. ( you can find an approximation for this on the Social Security website https://www.ssa.gov/OACT/population/longevity.html
+Enter Cost of living adjustment ( CoLA).  There is a sheet that has the historic values of CoLA since 1975.  (when the plan changed to its current method of CoLA).
+Enter expected Rate of Return.  (This is the expected rate of return for money invested, realistically should be more than inflation (CPI))
+Enter Discount rate. (this should be at least the rate of inflation..CPI). This is only used when using the Net Present Value calculation.
+The next pages are some examples with the data generated using the spreadsheets.
+Have fun.
+
+
+
+
+
+
+Example scenarios.
+Let’s try to approximate what we may want from SS benefit payments.
+Base example:
+Alfonse is male 62.  At Full Retirement Age the full benefit will be $2822.  According to Social Security life expectancy about 22  more years.
+Full Retirement Age Benefit$2,822.00Life Expectancy22CoLA0%Average CoLA since 1975 =3.73Rate of Return0%Average CPI since 19143.26%Discount Rate0%
+
+
+
+Calculation of benefits at different ages based on the benefit at FRA
+AGEMonthly benefit%  changeyear2year change62$1,975.40 70% 63$2,116.50 75%7.14%64$2,257.60 80%6.67%65$2,446.67 86.70%8.38%66$2,632.93 93.30%7.61%67$2,822.00 100%7.18%68$3,047.76 108%8.00%69$3,273.52 116%7.41%70$3,499.28 124%6.90%
+
+
+How do you evaluate Social Security income?
+
+The most straight forward method is to maximize the amount received over your lifetime. This is a way to measure the choice of payments not a recommendation.
+There are a few ways to look at the payment stream as shown below.
+Straight Totals:
+Straight total payments start at the age which Social Security is applied for and compare the totals over the lifetime.  This is just looking at the totals paid out. 
+The yearly benefit at 62 at 67 and 70 are totaled and compared. When the totals cross this is called the breakeven point.  With no other adjustment to the payment or the balance. The corresponding totals are shown in the Graph 1, Table 1, ( Graph 1 is the plot of Table 1).
+The FRA benefit as $2822.00 produces the early retirement at 62 payments to be $1975, which is close to the average payout for Social Security in 2025.  
+Using just the benefit payout with no adjustment the total "breakeven point " is about 80.
+
+Graph 1: SS total payout running total
+
+Table 1 SS total payout running total. 
+AgeTotal take at 62. No CoLATotal take at 67  No CoLA70 total No CoLA62$23,704.80   63$47,409.60   64$71,114.40   65$94,819.20   66$118,524.00   67$142,228.80 $33,864.00  68$165,933.60 $67,728.00  69$189,638.40 $101,592.00  70$213,343.20 $135,456.00 $41,991.36 71$237,048.00 $169,320.00 $83,982.72 72$260,752.80 $203,184.00 $125,974.08 73$284,457.60 $237,048.00 $167,965.44 74$308,162.40 $270,912.00 $209,956.80 75$331,867.20 $304,776.00 $251,948.16 76$355,572.00 $338,640.00 $293,939.52 77$379,276.80 $372,504.00 $335,930.88 78$402,981.60 $406,368.00 $377,922.24 79$426,686.40 $440,232.00 $419,913.60 80$450,391.20 $474,096.00 $461,904.96 81$474,096.00 $507,960.00 $503,896.32 82$497,800.80 $541,824.00 $545,887.68 83$521,505.60 $575,688.00 $587,879.04 84$545,210.40 $609,552.00 $629,870.40 85$568,915.20 $643,416.00 $671,861.76 86$592,620.00 $677,280.00 $713,853.12 87$616,324.80 $711,144.00 $755,844.48 88$640,029.60 $745,008.00 $797,835.84 89$663,734.40 $778,872.00 $839,827.20 90$687,439.20 $812,736.00 $881,818.56 91$711,144.00 $846,600.00 $923,809.92 92$734,848.80 $880,464.00 $965,801.28 93$758,553.60 $914,328.00 $1,007,792.64 94$782,258.40 $948,192.00 $1,049,784.00 95$805,963.20 $982,056.00 $1,091,775.36 96$829,668.00 $1,015,920.00 $1,133,766.72 97$853,372.80 $1,049,784.00 $1,175,758.08 98$877,077.60 $1,083,648.00 $1,217,749.44 99$900,782.40 $1,117,512.00 $1,259,740.80 100$924,487.20 $1,151,376.00 $1,301,732.16 
+
+There are a few problems with this comparison, it is only looking at the benefits of the Social Security benefits paid out.  There are at least two factors not accounted for.
+1. Where does the money to pay the living expenses come from for the time delaying until FRA or 70?
+2. If the benefit is applied for early, what is the time value of money?  This, base example, neglects both any CoLA that would be applied to benefit payments or any discount rate or return rate for accumulated money.
+	
+
+Example using CoLA:
+Now apply using the same example used in Table 1, Graph 1  apply a Cost of living adjustment (CoLA) of 2.5% and repeat to find the cross over point.  
+Using the same FRA number and applying the CoLA each year.  The "breakeven point" is now about 84.
+Note: Cola adjustments only apply to benefits that are being paid.  If a person in receiving SS benefits at 62,  Their payment will increase every year with the CoLA.  While the person who is delaying applying for SS benefits will as be calculated by their Full Retirement Age calculation.   The benefits shown in this case the person who started to receive payments early at 62, a payment of $1975, Will have a payment of $2406 at 70 years of age with a CoLA of 2.5%.  Average CoLA since 1975 is 3.73% per year.  Using 2.5% is conservative.
+
+
+GRAPH 2
+Table 2- Monthly SS payment With CoLA. Example.
+Monthy Benefit taken at 62 (Cola)Monthly Benefit taken at 67 (cola)Monthly Benefit taken at 70 (cola)62$1,975.40   63$2,024.79   64$2,075.40   65$2,127.29   66$2,180.47   67$2,234.98 $2,822.00  68$2,290.86 $2,892.55  69$2,348.13 $2,964.86  70$2,406.83 $3,038.99 $3,499.28 71$2,467.00 $3,114.96 $3,586.76 72$2,528.68 $3,192.83 $3,676.43 73$2,591.90 $3,272.65 $3,768.34 74$2,656.69 $3,354.47 $3,862.55 75$2,723.11 $3,438.33 $3,959.11 76$2,791.19 $3,524.29 $4,058.09 77$2,860.97 $3,612.40 $4,159.54 78$2,932.49 $3,702.71 $4,263.53 79$3,005.80 $3,795.28 $4,370.12 80$3,080.95 $3,890.16 $4,479.37 81$3,157.97 $3,987.41 $4,591.36 82$3,236.92 $4,087.10 $4,706.14 83$3,317.85 $4,189.27 $4,823.80 84$3,400.79 $4,294.01 $4,944.39 85$3,485.81 $4,401.36 $5,068.00 86$3,572.96 $4,511.39 $5,194.70 87$3,662.28 $4,624.18 $5,324.57 88$3,753.84 $4,739.78 $5,457.68 89$3,847.68 $4,858.27 $5,594.12 90$3,943.88 $4,979.73 $5,733.98 91$4,042.47 $5,104.22 $5,877.33 92$4,143.53 $5,231.83 $6,024.26 93$4,247.12 $5,362.63 $6,174.87 94$4,353.30 $5,496.69 $6,329.24 95$4,462.13 $5,634.11 $6,487.47 96$4,573.69 $5,774.96 $6,649.66 97$4,688.03 $5,919.34 $6,815.90 98$4,805.23 $6,067.32 $6,986.30 99$4,925.36 $6,219.00 $7,160.95 100$5,048.50 $6,374.48 $7,339.98 
+
+
+
+
+GRAPH 3 -Running total with CoLA
+
+
+
+TABLE 3
+Age62 yearly benefit62 total with CoLA67 yearly benefit w CoLA67 total with CoLA70 yearly benefit w CoLA70 total w CoLA62$23,704.80 $23,704.80 000063$24,297.42 $48,002.22 000064$24,904.86 $72,907.08 000065$25,527.48 $98,434.55 000066$26,165.66 $124,600.22 000067$26,819.81 $151,420.02 $33,864.00 $33,864.00 0068$27,490.30 $178,910.32 $34,710.60 $68,574.60 0069$28,177.56 $207,087.88 $35,578.37 $104,152.97 0070$28,882.00 $235,969.88 $36,467.82 $140,620.79 $41,991.36 $41,991.36 71$29,604.05 $265,573.92 $37,379.52 $178,000.31 $43,041.14 $85,032.50 72$30,344.15 $295,918.07 $38,314.01 $216,314.32 $44,117.17 $129,149.68 73$31,102.75 $327,020.82 $39,271.86 $255,586.17 $45,220.10 $174,369.78 74$31,880.32 $358,901.14 $40,253.65 $295,839.83 $46,350.60 $220,720.38 75$32,677.33 $391,578.47 $41,260.00 $337,099.82 $47,509.37 $268,229.75 76$33,494.26 $425,072.74 $42,291.50 $379,391.32 $48,697.10 $316,926.86 77$34,331.62 $459,404.35 $43,348.78 $422,740.10 $49,914.53 $366,841.39 78$35,189.91 $494,594.26 $44,432.50 $467,172.61 $51,162.39 $418,003.78 79$36,069.66 $530,663.92 $45,543.32 $512,715.92 $52,441.45 $470,445.24 80$36,971.40 $567,635.32 $46,681.90 $559,397.82 $53,752.49 $524,197.73 81$37,895.68 $605,531.00 $47,848.95 $607,246.76 $55,096.30 $579,294.03 82$38,843.07 $644,374.07 $49,045.17 $656,291.93 $56,473.71 $635,767.74 83$39,814.15 $684,188.23 $50,271.30 $706,563.23 $57,885.55 $693,653.30 84$40,809.51 $724,997.73 $51,528.08 $758,091.31 $59,332.69 $752,985.99 85$41,829.74 $766,827.48 $52,816.28 $810,907.60 $60,816.01 $813,802.00 86$42,875.49 $809,702.96 $54,136.69 $865,044.29 $62,336.41 $876,138.41 87$43,947.37 $853,650.34 $55,490.11 $920,534.39 $63,894.82 $940,033.23 88$45,046.06 $898,696.39 $56,877.36 $977,411.75 $65,492.19 $1,005,525.42 89$46,172.21 $944,868.60 $58,299.29 $1,035,711.05 $67,129.50 $1,072,654.91 90$47,326.52 $992,195.12 $59,756.78 $1,095,467.82 $68,807.73 $1,141,462.65 91$48,509.68 $1,040,704.80 $61,250.70 $1,156,718.52 $70,527.93 $1,211,990.57 92$49,722.42 $1,090,427.22 $62,781.96 $1,219,500.48 $72,291.12 $1,284,281.70 93$50,965.48 $1,141,392.70 $64,351.51 $1,283,851.99 $74,098.40 $1,358,380.10 94$52,239.62 $1,193,632.32 $65,960.30 $1,349,812.29 $75,950.86 $1,434,330.96 95$53,545.61 $1,247,177.92 $67,609.31 $1,417,421.60 $77,849.63 $1,512,180.60 96$54,884.25 $1,302,062.17 $69,299.54 $1,486,721.14 $79,795.87 $1,591,976.47 97$56,256.35 $1,358,318.53 $71,032.03 $1,557,753.17 $81,790.77 $1,673,767.24 98$57,662.76 $1,415,981.29 $72,807.83 $1,630,561.00 $83,835.54 $1,757,602.78 99$59,104.33 $1,475,085.62 $74,628.02 $1,705,189.02 $85,931.43 $1,843,534.21 100$60,581.94 $1,535,667.56 $76,493.73 $1,781,682.75 $88,079.72 $1,931,613.93 
+
+
+
+Next use a rate return or interest rate of 3.26% to the stream of income.  The "breakeven point"  moves out  even more to about 89, due to the magic of compounding. (this is just 3.26% This is just keeping up with inflation).  
+
+
+GRAPH 4 CoLA 2.5%, Rate of Return 3.26%
+
+
+
+
+TABLE 4
+Age62, yearly benefit with CoLA62-69 benefits, discount rate62, invest + benefit->total67, CoLA, invest total70, CoLA, invest total70 total w CoLA, invest rate62$23,704.80 $23,704.80 $23,704.80  $0.00 063$24,297.42 $48,775.00 $48,775.00  $0.00 064$24,904.86 $75,269.92 $75,269.92  $0.00 065$25,527.48 $103,251.19 $103,251.19  $0.00 066$26,165.66 $132,782.85 $132,782.85  $0.00 067$26,819.81 $163,931.37 $163,931.37 $33,864.00 $0.00 068$27,490.30 $196,765.84 $196,765.84 $69,678.57 $0.00 069$28,177.56 $231,357.96 $231,357.96 $107,528.45 $0.00 070$28,882.00 $238,900.23 $267,782.23 $147,501.70 $0.00 $41,991.36 71$29,604.05 $246,688.38 $306,115.97 $189,689.78 $0.00 $86,401.42 72$30,344.15 $254,730.42 $346,439.50 $234,187.67 $0.00 $133,335.28 73$31,102.75 $263,034.63 $388,836.18 $281,094.05 $0.00 $182,902.11 74$31,880.32 $271,609.56 $433,392.56 $330,511.37 $0.00 $235,215.33 75$32,677.33 $280,464.03 $480,198.49 $382,546.04 $0.00 $290,392.72 76$33,494.26 $289,607.16 $529,347.22 $437,308.53 $0.00 $348,556.62 77$34,331.62 $299,048.35 $580,935.56 $494,913.57 $0.00 $409,834.10 78$35,189.91 $308,797.33 $635,063.97 $555,480.26 $0.00 $474,357.09 79$36,069.66 $318,864.12 $691,836.71 $619,132.23 $0.00 $542,262.58 80$36,971.40 $329,259.09 $751,361.98 $685,997.84 $0.00 $613,692.83 81$37,895.68 $339,992.94 $813,752.07 $756,210.32 $0.00 $688,795.52 82$38,843.07 $351,076.71 $879,123.46 $829,907.94 $0.00 $767,723.97 83$39,814.15 $362,521.81 $947,597.04 $907,234.24 $0.00 $850,637.32 84$40,809.51 $374,340.02 $1,019,298.20 $988,338.15 $0.00 $937,700.79 85$41,829.74 $386,543.50 $1,094,357.07 $1,073,374.26 $0.00 $1,029,085.85 86$42,875.49 $399,144.82 $1,172,908.60 $1,162,502.95 $0.00 $1,124,970.45 87$43,947.37 $412,156.94 $1,255,092.79 $1,255,890.66 $0.00 $1,225,539.31 88$45,046.06 $425,593.26 $1,341,054.87 $1,353,710.05 $0.00 $1,330,984.08 89$46,172.21 $439,467.60 $1,430,945.47 $1,456,140.29 $0.00 $1,441,503.66 90$47,326.52 $453,794.24 $1,524,920.81 $1,563,367.24 $0.00 $1,557,304.41 91$48,509.68 $468,587.93 $1,623,142.91 $1,675,583.71 $0.00 $1,678,600.46 92$49,722.42 $483,863.90 $1,725,779.79 $1,792,989.70 $0.00 $1,805,613.96 93$50,965.48 $499,637.86 $1,833,005.69 $1,915,792.68 $0.00 $1,938,575.38 94$52,239.62 $515,926.06 $1,945,001.29 $2,044,207.82 $0.00 $2,077,723.80 95$53,545.61 $532,745.25 $2,061,953.94 $2,178,458.30 $0.00 $2,223,307.23 96$54,884.25 $550,112.74 $2,184,057.89 $2,318,775.58 $0.00 $2,375,582.92 97$56,256.35 $568,046.42 $2,311,514.53 $2,465,399.69 $0.00 $2,534,817.70 98$57,662.76 $586,564.73 $2,444,532.66 $2,618,579.55 $0.00 $2,701,288.29 99$59,104.33 $605,686.74 $2,583,328.76 $2,778,573.27 $0.00 $2,875,281.72 100$60,581.94 $625,432.13 $2,728,127.22 $2,945,648.49 $0.00 $3,057,095.62 
+
+This Scenario shows the Social security payments being socked away and not spent which is not realistic.  Since the money for living expenses needs to come from somewhere.
+The SS benefit income will either be spent or saved either way it will not earn 0%.  If it was spent on living expenses, then other monies can stay invested where they are.  (qualified or non-qualified account).
+The money needed to delay taking social security would be slightly more than $230K  for is example).  That is with that savings amount compounding at the chosen discount rate/ rate of return  of 3.26% .   
+
+An example 2:
+Two identical twins, Frank and Bill, have an identical earning history.
+Frank, a single man, 62, using todays (2026) FRA benefit and rules. He has 250k in retirement savings.  He takes the early benefit at 62. His Social Security coincidentally meets his income need.
+ Bill a single man, 62, also using todays (2026) FRA benefit and rules. He has 250k in retirement savings.  He delays applying for social security and takes his living expenses out of his 250k retirement savings until he is 70.  His living expenses also coincidentally match his early benefit at 62 and increase with inflation from the time period using The CoLA rate. His living expenses are the same as his brothers’. Meaning his withdrawals from his savings/investment accounts match his brother Frank social security payment.
+
+First use 0% as the discount rate or rate of return and use the CoLA of 2.5%.  
+
+Full Retirement Age Benefit$2,822.00Life Expectancy22CoLA2.50%Average since 1975 =3.73Rate of Return0.00%AverageCPI since 19143.26%Discount Rate0.00%
+Spouse Full retirement Benefit $     3,400.00   Yearly expense$23,704.00 
+Starting retirement funds to draw from =$250,000 
+
+
+
+Graph 5
+
+
+
+Frank’s information by year.  TABLE 4
+FrankAgeMontly benefitYearly BenefitYearly Expensesexpense vs income Savings62$1,975.40 $23,704.80 $23,704.00$0.80 $250,000.00 63$2,024.79 $24,297.42 $24,296.60$0.82 $250,000.82 64$2,075.40 $24,904.86 $24,904.02$0.84 $250,001.66 65$2,127.29 $25,527.48 $25,526.62$0.86 $250,002.52 66$2,180.47 $26,165.66 $26,164.78$0.88 $250,003.41 67$2,234.98 $26,819.81 $26,818.90$0.91 $250,004.31 68$2,290.86 $27,490.30 $27,489.37$0.93 $250,005.24 69$2,348.13 $28,177.56 $28,176.61$0.95 $250,006.19 70$2,406.83 $28,882.00 $28,881.02$0.97 $250,007.16 71$2,467.00 $29,604.05 $29,603.05$1.00 $250,008.16 72$2,528.68 $30,344.15 $30,343.12$1.02 $250,009.19 73$2,591.90 $31,102.75 $31,101.70$1.05 $250,010.24 74$2,656.69 $31,880.32 $31,879.24$1.08 $250,011.31 75$2,723.11 $32,677.33 $32,676.23$1.10 $250,012.42 76$2,791.19 $33,494.26 $33,493.13$1.13 $250,013.55 77$2,860.97 $34,331.62 $34,330.46$1.16 $250,014.70 78$2,932.49 $35,189.91 $35,188.72$1.19 $250,015.89 79$3,005.80 $36,069.66 $36,068.44$1.22 $250,017.11 80$3,080.95 $36,971.40 $36,970.15$1.25 $250,018.36 81$3,157.97 $37,895.68 $37,894.40$1.28 $250,019.64 82$3,236.92 $38,843.07 $38,841.76$1.31 $250,020.95 83$3,317.85 $39,814.15 $39,812.81$1.34 $250,022.29 84$3,400.79 $40,809.51 $40,808.13$1.38 $250,023.67 85$3,485.81 $41,829.74 $41,828.33$1.41 $250,025.08 86$3,572.96 $42,875.49 $42,874.04$1.45 $250,026.53 87$3,662.28 $43,947.37 $43,945.89$1.48 $250,028.01 88$3,753.84 $45,046.06 $45,044.54$1.52 $250,029.53 89$3,847.68 $46,172.21 $46,170.65$1.56 $250,031.09 90$3,943.88 $47,326.52 $47,324.92$1.60 $250,032.69 91$4,042.47 $48,509.68 $48,508.04$1.64 $250,034.32 92$4,143.53 $49,722.42 $49,720.74$1.68 $250,036.00 93$4,247.12 $50,965.48 $50,963.76$1.72 $250,037.72 94$4,353.30 $52,239.62 $52,237.85$1.76 $250,039.48 95$4,462.13 $53,545.61 $53,543.80$1.81 $250,041.29 96$4,573.69 $54,884.25 $54,882.40$1.85 $250,043.14 97$4,688.03 $56,256.35 $56,254.46$1.90 $250,045.04 98$4,805.23 $57,662.76 $57,660.82$1.95 $250,046.99 99$4,925.36 $59,104.33 $59,102.34$1.99 $250,048.98 100$5,048.50 $60,581.94 $60,579.90$2.04 $250,051.03 
+
+
+BILLS INFORMATION BY YEAR TABLE 5
+BillAgeMontly benefitYearly BenefitYearly ExpensesChange to savingsSaving62$0.00 $0.00 $23,704.00 ($23,704.00)$226,296.00 63$0.00 $0.00 $24,296.60 ($24,296.60)$201,999.40 64$0.00 $0.00 $24,904.02 ($24,904.02)$177,095.39 65$0.00 $0.00 $25,526.62 ($25,526.62)$151,568.77 66$0.00 $0.00 $26,164.78 ($26,164.78)$125,403.99 67$0.00 $0.00 $26,818.90 ($26,818.90)$98,585.09 68$0.00 $0.00 $27,489.37 ($27,489.37)$71,095.72 69$0.00 $0.00 $28,176.61 ($28,176.61)$42,919.11 70$3,499.28 $41,991.36 $28,881.02 $13,110.34 $56,029.45 71$3,586.76 $43,041.14 $29,603.05 $13,438.10 $69,467.54 72$3,676.43 $44,117.17 $30,343.12 $13,774.05 $83,241.59 73$3,768.34 $45,220.10 $31,101.70 $14,118.40 $97,359.99 74$3,862.55 $46,350.60 $31,879.24 $14,471.36 $111,831.35 75$3,959.11 $47,509.37 $32,676.23 $14,833.14 $126,664.49 76$4,058.09 $48,697.10 $33,493.13 $15,203.97 $141,868.47 77$4,159.54 $49,914.53 $34,330.46 $15,584.07 $157,452.54 78$4,263.53 $51,162.39 $35,188.72 $15,973.67 $173,426.21 79$4,370.12 $52,441.45 $36,068.44 $16,373.02 $189,799.23 80$4,479.37 $53,752.49 $36,970.15 $16,782.34 $206,581.57 81$4,591.36 $55,096.30 $37,894.40 $17,201.90 $223,783.47 82$4,706.14 $56,473.71 $38,841.76 $17,631.95 $241,415.41 83$4,823.80 $57,885.55 $39,812.81 $18,072.75 $259,488.16 84$4,944.39 $59,332.69 $40,808.13 $18,524.56 $278,012.72 85$5,068.00 $60,816.01 $41,828.33 $18,987.68 $297,000.40 86$5,194.70 $62,336.41 $42,874.04 $19,462.37 $316,462.77 87$5,324.57 $63,894.82 $43,945.89 $19,948.93 $336,411.70 88$5,457.68 $65,492.19 $45,044.54 $20,447.65 $356,859.35 89$5,594.12 $67,129.50 $46,170.65 $20,958.84 $377,818.20 90$5,733.98 $68,807.73 $47,324.92 $21,482.81 $399,301.01 91$5,877.33 $70,527.93 $48,508.04 $22,019.89 $421,320.90 92$6,024.26 $72,291.12 $49,720.74 $22,570.38 $443,891.28 93$6,174.87 $74,098.40 $50,963.76 $23,134.64 $467,025.92 94$6,329.24 $75,950.86 $52,237.85 $23,713.01 $490,738.93 95$6,487.47 $77,849.63 $53,543.80 $24,305.83 $515,044.76 96$6,649.66 $79,795.87 $54,882.40 $24,913.48 $539,958.24 97$6,815.90 $81,790.77 $56,254.46 $25,536.32 $565,494.56 98$6,986.30 $83,835.54 $57,660.82 $26,174.72 $591,669.28 99$7,160.95 $85,931.43 $59,102.34 $26,829.09 $618,498.37 100$7,339.98 $88,079.72 $60,579.90 $27,499.82 $645,998.19 
+
+
+COMPARYING FRANK AND BILL’S RETIRMENT SAVINGS 
+FrankBillAgeSavingsSavings62$250,000.00 $226,296.00 63$250,000.82 $201,999.40 64$250,001.66 $177,095.39 65$250,002.52 $151,568.77 66$250,003.41 $125,403.99 67$250,004.31 $98,585.09 68$250,005.24 $71,095.72 69$250,006.19 $42,919.11 70$250,007.16 $56,029.45 71$250,008.16 $69,467.54 72$250,009.19 $83,241.59 73$250,010.24 $97,359.99 74$250,011.31 $111,831.35 75$250,012.42 $126,664.49 76$250,013.55 $141,868.47 77$250,014.70 $157,452.54 78$250,015.89 $173,426.21 79$250,017.11 $189,799.23 80$250,018.36 $206,581.57 81$250,019.64 $223,783.47 82$250,020.95 $241,415.41 83$250,022.29 $259,488.16 84$250,023.67 $278,012.72 85$250,025.08 $297,000.40 86$250,026.53 $316,462.77 87$250,028.01 $336,411.70 88$250,029.53 $356,859.35 89$250,031.09 $377,818.20 90$250,032.69 $399,301.01 91$250,034.32 $421,320.90 92$250,036.00 $443,891.28 93$250,037.72 $467,025.92 94$250,039.48 $490,738.93 95$250,041.29 $515,044.76 96$250,043.14 $539,958.24 97$250,045.04 $565,494.56 98$250,046.99 $591,669.28 99$250,048.98 $618,498.37 100$250,051.03 $645,998.19 
+
+It would be hard to keep thinking about delayed gratification by delaying the social security when you see your retirement savings being drawn down in retirement.  While it has some merit it would be uncomfortable especially at that time in Bill’s life.
+
+Now lets look at the results using 3.26% as the discount rate and the rate of return. The breakeven point moves out to about age 88. 
+Full Retirement Age Benefit$2,822.00Life Expectancy22CoLA2.50%Average since 1975 =3.73Rate of Return3.26%AverageCPI since 19143.26%Discount Rate3.26%
+Spouse Full retirement Benefit $     3,400.00   Yearly expense$23,704.00 Starting retirement funds to draw from =$250,000 
+
+
+This scenario pushes the breakeven point out to 88.  The stressful part of this, as stated above,  is taking money out of retirement accounts and seeing that balance drop significantly while delaying applying for social security.  Not only that. It is not until age 77 that money spent in pre social security payments is recovered.  That time period seems like it would be more stressful than it needs to be.  Especially in the early years if the market was declining. It kind of goes against wanting to see our savings grow.  Something that Bill has been doing all his life.
+
+FrankAgeMonthly benefitYearly BenefitYearly Expensesexpense vs income Savings62$1,975.40 $23,704.80 $23,704.00$0.80 $258,150.00 63$2,024.79 $24,297.42 $24,296.60$0.82 $266,566.51 64$2,075.40 $24,904.86 $24,904.02$0.84 $275,257.42 65$2,127.29 $25,527.48 $25,526.62$0.86 $284,231.67 66$2,180.47 $26,165.66 $26,164.78$0.88 $293,498.51 67$2,234.98 $26,819.81 $26,818.90$0.91 $303,067.46 68$2,290.86 $27,490.30 $27,489.37$0.93 $312,948.39 69$2,348.13 $28,177.56 $28,176.61$0.95 $323,151.46 70$2,406.83 $28,882.00 $28,881.02$0.97 $333,687.17 71$2,467.00 $29,604.05 $29,603.05$1.00 $344,566.37 72$2,528.68 $30,344.15 $30,343.12$1.02 $355,800.26 73$2,591.90 $31,102.75 $31,101.70$1.05 $367,400.40 74$2,656.69 $31,880.32 $31,879.24$1.08 $379,378.73 75$2,723.11 $32,677.33 $32,676.23$1.10 $391,747.58 76$2,791.19 $33,494.26 $33,493.13$1.13 $404,519.68 77$2,860.97 $34,331.62 $34,330.46$1.16 $417,708.18 78$2,932.49 $35,189.91 $35,188.72$1.19 $431,326.65 79$3,005.80 $36,069.66 $36,068.44$1.22 $445,389.12 80$3,080.95 $36,971.40 $36,970.15$1.25 $459,910.05 81$3,157.97 $37,895.68 $37,894.40$1.28 $474,904.40 82$3,236.92 $38,843.07 $38,841.76$1.31 $490,387.59 83$3,317.85 $39,814.15 $39,812.81$1.34 $506,375.57 84$3,400.79 $40,809.51 $40,808.13$1.38 $522,884.79 85$3,485.81 $41,829.74 $41,828.33$1.41 $539,932.25 86$3,572.96 $42,875.49 $42,874.04$1.45 $557,535.49 87$3,662.28 $43,947.37 $43,945.89$1.48 $575,712.63 88$3,753.84 $45,046.06 $45,044.54$1.52 $594,482.38 89$3,847.68 $46,172.21 $46,170.65$1.56 $613,864.06 90$3,943.88 $47,326.52 $47,324.92$1.60 $633,877.63 91$4,042.47 $48,509.68 $48,508.04$1.64 $654,543.68 92$4,143.53 $49,722.42 $49,720.74$1.68 $675,883.48 93$4,247.12 $50,965.48 $50,963.76$1.72 $697,919.00 94$4,353.30 $52,239.62 $52,237.85$1.76 $720,672.92 95$4,462.13 $53,545.61 $53,543.80$1.81 $744,168.67 96$4,573.69 $54,884.25 $54,882.40$1.85 $768,430.42 97$4,688.03 $56,256.35 $56,254.46$1.90 $793,483.15 98$4,805.23 $57,662.76 $57,660.82$1.95 $819,352.64 99$4,925.36 $59,104.33 $59,102.34$1.99 $846,065.54 100$5,048.50 $60,581.94 $60,579.90$2.04 $873,649.32 
+BillAgeMonthly benefitYearly BenefitYearly ExpensesChange to savingsSaving62$0.00 $0.00 $23,704.00 ($23,704.00)$234,446.00 63$0.00 $0.00 $24,296.60 ($24,296.60)$217,792.34 64$0.00 $0.00 $24,904.02 ($24,904.02)$199,988.35 65$0.00 $0.00 $25,526.62 ($25,526.62)$180,981.36 66$0.00 $0.00 $26,164.78 ($26,164.78)$160,716.57 67$0.00 $0.00 $26,818.90 ($26,818.90)$139,137.03 68$0.00 $0.00 $27,489.37 ($27,489.37)$116,183.53 69$0.00 $0.00 $28,176.61 ($28,176.61)$91,794.50 70$3,499.28 $41,991.36 $28,881.02 $13,110.34 $107,897.34 71$3,586.76 $43,041.14 $29,603.05 $13,438.10 $124,852.89 72$3,676.43 $44,117.17 $30,343.12 $13,774.05 $142,697.14 73$3,768.34 $45,220.10 $31,101.70 $14,118.40 $161,467.47 74$3,862.55 $46,350.60 $31,879.24 $14,471.36 $181,202.67 75$3,959.11 $47,509.37 $32,676.23 $14,833.14 $201,943.02 76$4,058.09 $48,697.10 $33,493.13 $15,203.97 $223,730.33 77$4,159.54 $49,914.53 $34,330.46 $15,584.07 $246,608.01 78$4,263.53 $51,162.39 $35,188.72 $15,973.67 $270,621.11 79$4,370.12 $52,441.45 $36,068.44 $16,373.02 $295,816.37 80$4,479.37 $53,752.49 $36,970.15 $16,782.34 $322,242.33 81$4,591.36 $55,096.30 $37,894.40 $17,201.90 $349,949.33 82$4,706.14 $56,473.71 $38,841.76 $17,631.95 $378,989.62 83$4,823.80 $57,885.55 $39,812.81 $18,072.75 $409,417.43 84$4,944.39 $59,332.69 $40,808.13 $18,524.56 $441,289.00 85$5,068.00 $60,816.01 $41,828.33 $18,987.68 $474,662.70 86$5,194.70 $62,336.41 $42,874.04 $19,462.37 $509,599.07 87$5,324.57 $63,894.82 $43,945.89 $19,948.93 $546,160.93 88$5,457.68 $65,492.19 $45,044.54 $20,447.65 $584,413.43 89$5,594.12 $67,129.50 $46,170.65 $20,958.84 $624,424.15 90$5,733.98 $68,807.73 $47,324.92 $21,482.81 $666,263.20 91$5,877.33 $70,527.93 $48,508.04 $22,019.89 $710,003.26 92$6,024.26 $72,291.12 $49,720.74 $22,570.38 $755,719.75 93$6,174.87 $74,098.40 $50,963.76 $23,134.64 $803,490.86 94$6,329.24 $75,950.86 $52,237.85 $23,713.01 $853,397.67 95$6,487.47 $77,849.63 $53,543.80 $24,305.83 $905,524.26 96$6,649.66 $79,795.87 $54,882.40 $24,913.48 $959,957.83 97$6,815.90 $81,790.77 $56,254.46 $25,536.32 $1,016,788.77 98$6,986.30 $83,835.54 $57,660.82 $26,174.72 $1,076,110.81 99$7,160.95 $85,931.43 $59,102.34 $26,829.09 $1,138,021.12 100$7,339.98 $88,079.72 $60,579.90 $27,499.82 $1,202,620.42 
+COMPARE FRANK AND BILL’S SAVINGS YEAR BY YEAR
+FrankBillAgeSavingsSavings62$258,150.00 $234,446.00 63$266,566.51 $217,792.34 64$275,257.42 $199,988.35 65$284,231.67 $180,981.36 66$293,498.51 $160,716.57 67$303,067.46 $139,137.03 68$312,948.39 $116,183.53 69$323,151.46 $91,794.50 70$333,687.17 $107,897.34 71$344,566.37 $124,852.89 72$355,800.26 $142,697.14 73$367,400.40 $161,467.47 74$379,378.73 $181,202.67 75$391,747.58 $201,943.02 76$404,519.68 $223,730.33 77$417,708.18 $246,608.01 78$431,326.65 $270,621.11 79$445,389.12 $295,816.37 80$459,910.05 $322,242.33 81$474,904.40 $349,949.33 82$490,387.59 $378,989.62 83$506,375.57 $409,417.43 84$522,884.79 $441,289.00 85$539,932.25 $474,662.70 86$557,535.49 $509,599.07 87$575,712.63 $546,160.93 88$594,482.38 $584,413.43 89$613,864.06 $624,424.15 90$633,877.63 $666,263.20 91$654,543.68 $710,003.26 92$675,883.48 $755,719.75 93$697,919.00 $803,490.86 94$720,672.92 $853,397.67 95$744,168.67 $905,524.26 96$768,430.42 $959,957.83 97$793,483.15 $1,016,788.77 98$819,352.64 $1,076,110.81 99$846,065.54 $1,138,021.12 100$873,649.32 $1,202,620.42 
+Same scenario except rate of return it 4.00%, discount is still 3.26%. This moves the breakeven point out to about 90. 
+
+
+FrankBillAgeSavingsSavings62$260,650.00 $236,946.00 63$271,754.51 $222,743.30 64$283,332.09 $207,328.15 65$295,402.90 $190,633.71 66$307,987.95 $172,589.93 67$321,109.14 $153,123.36 68$334,789.32 $132,157.04 69$349,052.29 $109,610.32 70$363,922.89 $127,390.06 71$379,427.01 $146,254.97 72$395,591.62 $166,259.48 73$412,444.88 $187,460.54 74$430,016.10 $209,917.72 75$448,335.89 $233,693.36 76$467,436.13 $258,852.67 77$487,350.07 $285,463.86 78$508,112.37 $313,598.29 79$529,759.18 $343,330.60 80$552,328.16 $374,738.82 81$575,858.62 $407,904.59 82$600,391.51 $442,913.28 83$625,969.53 $479,854.13 84$652,637.21 $518,820.48 85$680,440.97 $559,909.91 86$709,429.20 $603,224.44 87$739,652.37 $648,870.73 88$771,163.08 $696,960.28 89$804,016.19 $747,609.63 90$838,268.87 $800,940.61 91$873,980.76 $857,080.57 92$911,214.02 $916,162.58 93$950,033.46 $978,325.75 94$990,506.65 $1,043,715.44 95$1,032,704.04 $1,112,483.55 96$1,076,699.08 $1,184,788.82 97$1,122,568.36 $1,260,797.14 98$1,170,391.72 $1,340,681.83 99$1,220,252.40 $1,424,623.96 100$1,272,237.20 $1,512,812.77 
+
+
+
+Now this is subject to the [[Sequence of Returns]]  definition at top?
+Seeing the [[Sequence of Returns]] a down market at retirement at 62 would be bad.  Now money has to be taken out of what ever to pay for living expenses that SS could have.  Not only for one year but possibly multiple years.  This in no way affects your SS payment by it can dramatically adversely affect the total net worth.
+
+
+Another scenario with Frank and Bill. 
+They are married to identical twins who are 3 years older than them exactly. The spouses in this case retire at 65 and apply for social security.  Frank and Bill retire at 62 and take their social security benefit as in the previous scenario ,62 and 70.  Their household expenses match what Frank got as the amount he got from Social security by claiming early at 62, at least in this scenario.
+
+
+
+
+
+
+Sadly Frank and Bill passed on too soon.
+Select the age at the top. Their spouses started their SS benefits at 65 so they will receive 90% of Frank or Bills Benefit
+
+
+
+In the scenarios described above, which are relevant to me, it makes more sense to me to take the money as soon as you can.  The only way it pays today is in a 0 or negative inflation rate environment for your lifetime.  Which is completely unrealistic.
+
+
+Net Present Value method.
+Net Present Value is the process of evaluating a stream of payments over some years and determining if it is a good investment.  This uses a discount rate ( which can be thought of also as the rate of return of an investment).  Typically, this is used when evaluating a business investment.  The discount rate usually is at least the rate of safe returns.  Like US treasury bill 10 or 30 yr yield as a minimum.  The Treasuries are considered risk-free investments, at least at the time of this writing.   An investment that is more risky than treasuries should have a higher return on investment.  (Higher risk higher reward. in theory).
+Using the NPV calculation in excel to calculate the Present value of the social security payments is very interesting.
+Using the time span as 22y, the estimate of life expectancy after 62. And a discount rate of 0.0% ( no inflation, a dollar today equals a dollar 22yrs from now). 
+Using the example of Alfonse ,
+NPV 22yrs (84)Take at 62 w/CoLATake at 67 w/CoLATake at 70 w/CoLA$724,997.73 $758,091.31 $752,985.99 CoLA = 2.5% Take at 62  no CoLATake at 67 no CoLATake at 70 no CoLA$545,210.40 $609,552.00 $629,870.40 NPV using real discount rateDiscount Rate = 0%  Life Expectancy past 62 = 22  Yrs$724,997.73 $758,091.31 $752,985.99 
+
+Interesting results.
+Using the NPV calculation with 0% discount is just adding up the payments over the years.  In this case 22yrs.  Very interesting. If the CoLA is applied to  the payments the values are really close.  While the total present value is not accurate in the dollar value it is a good number to use to compare the calculated values to each other.  They are close enough to have no clear winner.
+Kinda of amazing they are so close. 
+Now look at the same example and use a discount rate of 3.26%
+NPV 22yrs (84)Take at 62 w/CoLATake at 67 w/CoLATake at 70 w/CoLA$487,374.14 $472,570.69 $448,358.60 CoLA = 2.5% Take at 62  no CoLATake at 67 no CoLATake at 70 no CoLA$379,460.94 $388,144.48 $380,627.94 NPV using real discount rateDiscount Rate = 3.26%  Life Expectancy past 62 = 22  Yrs$487,374.14 $472,570.69 $448,358.60 
+ 
+Now look at the same example and use a discount rate of 2.5%
+NPV 22yrs (84)Take at 62 w/CoLATake at 67 w/CoLATake at 70 w/CoLA$531,912.59 $525,614.78 $504,355.09 CoLA = 2.5% Take at 62  no CoLATake at 67 no CoLATake at 70 no CoLA$410,854.21 $429,608.25 $426,715.08 NPV using real discount rateDiscount Rate = 2.5%  Life Expectancy past 62 = 22  Yrs$531,912.59 $525,614.78 $504,355.09 
+
+Since we cannot tell the future and the differences are so close.  Is it worth the stress early in retirement to see retirement funds decrease by delaying social security?
+I think not but that is a personal decision.
+
+
+
+
+
+
